@@ -1,0 +1,3 @@
+
+class StockPool:
+    pass
